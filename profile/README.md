@@ -20,7 +20,7 @@ Mental health support is hard to reach in Libya, and stigma stops many young peo
 
 ## Planned features
 
-Inspired by existing products (see [competitor analysis](docs/research/competitor-analysis.md) [user research](docs/research/user-research.md), and [AI support usage findings](docs/research/ai-support-usage-findings.md), and [technical AI analysis](docs/research/technical-ai-analysis.md)).
+Inspired by existing products. See the [research folder](docs/research/README.md) for the competitor analysis, user research, usage findings, and technical AI analysis.
 
 | Feature | Inspired by | Manara implementation |
 |---|---|---|
@@ -54,6 +54,7 @@ Write the system prompt and output schema, then test models on 10 Libyan-dialect
 ## Disclaimer
 
 Manara is a guidance and support tool, not a substitute for professional care. In an emergency, contact the relevant authorities immediately.
+
 
 
 
