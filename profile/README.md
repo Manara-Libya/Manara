@@ -18,6 +18,20 @@ Mental health support is hard to reach in Libya, and stigma stops many young peo
   2. Suggested contact with a ready-made message.
   3. An urgent fixed screen with emergency numbers and a "trusted person" button.
 
+## Planned features
+
+Inspired by existing products (see [competitor analysis](docs/competitor-analysis.md)).
+
+| Feature | Inspired by | Manara implementation |
+|---|---|---|
+| Anonymous use | Wysa | No account or sign-up |
+| Pre-reviewed techniques | Woebot | Model selects from a fixed set of vetted exercises |
+| Risk-language detection | Woebot | Rule-based detection plus a fixed emergency screen |
+| No autonomous decisions | Wysa | User always decides; nothing is sent without consent |
+| Resource matching | Shezlong | Match the problem to a local support resource |
+| Emotional pattern tracking | Shezlong | Weekly mood indicators |
+| Cultural and language adaptation | Wysa (Dreamkit) | Libyan dialect and local resources |
+| Not-a-diagnosis notice | Wysa | Clear message on first use |
 ## Tech
 
 - Flutter app
@@ -40,3 +54,4 @@ Write the system prompt and output schema, then test models on 10 Libyan-dialect
 ## Disclaimer
 
 Manara is a guidance and support tool, not a substitute for professional care. In an emergency, contact the relevant authorities immediately.
+
