@@ -47,6 +47,10 @@ Inspired by existing products. See the [research folder](docs/research/README.md
 - Personal details are masked before reaching the model.
 - Nothing is sent to anyone without the user's consent.
 
+## Design
+
+See the draft [system design](docs/design/system-design.md): message pipeline, escalation levels, Libyan dialect approach, and safety layers.
+
 ## Next step
 
 Write the system prompt and output schema, then test models on 10 Libyan-dialect examples.
@@ -54,6 +58,7 @@ Write the system prompt and output schema, then test models on 10 Libyan-dialect
 ## Disclaimer
 
 Manara is a guidance and support tool, not a substitute for professional care. In an emergency, contact the relevant authorities immediately.
+
 
 
 
