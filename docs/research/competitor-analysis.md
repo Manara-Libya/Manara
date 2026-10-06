@@ -40,3 +40,4 @@ Source: Wamda press release, 29 April 2025.
 | Clear crisis disclaimer | Not designed for crises or medical advice; directs users to country-specific emergency hotlines. |
 | Research backing | Cites 45+ peer-reviewed publications. |
 | Age policy | 18+, with parental review advised for ages 13 to 18. |
+

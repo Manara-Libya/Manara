@@ -45,3 +45,4 @@ Of the apps reviewed, **Wysa and Woebot are the most widely used and best known*
 - [Competitor feature analysis](competitor-analysis.md)
 - [AI support usage findings](ai-support-usage-findings.md)
 
+
